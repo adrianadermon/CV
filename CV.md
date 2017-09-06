@@ -79,6 +79,8 @@ Labor economics, intergenerational mobility, inequality, education, intellectual
 
 ## Invited seminar presentations
 
+* Research Institute of Industrial Economics, Stockholm, September 2017.
+
 * Department of Economics, Umeå University, May 2017.
 
 * Swedish Ministry of Finance, Stockholm, February 2017.
@@ -92,6 +94,8 @@ Labor economics, intergenerational mobility, inequality, education, intellectual
 * The Danish National Centre for Social Research (SFI), Copenhagen, October 2012.
 
 ## Conference and workshop presentations
+
+* Meeting of the Society for the Study of Economic Inequality (ECINEQ), New York, July 2017.
 
 * Allied Social Sciences Associations Annual Meeting (ASSA), Chicago, January 2017.
 
