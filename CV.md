@@ -79,6 +79,8 @@ Labor economics, intergenerational mobility, inequality, education, intellectual
 
 ## Invited seminar presentations
 
+* School of Business and Economics, Linnaeus University, Växjö, October 2017.
+
 * Research Institute of Industrial Economics, Stockholm, September 2017.
 
 * Department of Economics, Umeå University, May 2017.
