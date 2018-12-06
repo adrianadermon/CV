@@ -59,7 +59,7 @@ Labor economics, intergenerational mobility, inequality, education, intellectual
 
 ## Journal articles (peer reviewed)
 
-"Intergenerational wealth mobility and the role of inheritance: Evidence from multiple generations", with Mikael Lindahl and Daniel Waldenström. Forthcoming in *The Economic Journal*.
+"Intergenerational Wealth Mobility and the Role of Inheritance: Evidence from Multiple Generations" (2018), with Mikael Lindahl and Daniel Waldenström. *The Economic Journal* 128(612), F482--F513.
 
 "Job Polarization and Task-Biased Technological Change: Evidence from Sweden, 1975--2005" (2015), with Magnus Gustavsson. *The Scandinavian Journal of Economics* 117(3), 878--917.
 
@@ -71,6 +71,10 @@ Labor economics, intergenerational mobility, inequality, education, intellectual
 
 ## Other publications
 
+"Bristyrken i offentlig verksamhet --- Var arbetar de utbildade?", with Lisa Laun. IFAU Rapport 2018:19.
+
+"Förmögenhet och arv över flera generationer", with Mikael Lindahl and Daniel Waldenström. IFAU Rapport 2018:7.
+
 "Den utvidgade familjens betydelse för barns utbildning", with Mikael Lindahl and Mårten Palme. IFAU Rapport 2016:16.
 
 "Teknisk utveckling och jobbpolarisering", with Magnus Gustavsson. *SNS Analys* 28 (2015).
@@ -78,6 +82,8 @@ Labor economics, intergenerational mobility, inequality, education, intellectual
 "Fildelning och musikförsäljning --- Effekten av piratjägarlagen IPRED", with Che-Yuan Liang. *Ekonomisk Debatt* 3 (2015).
 
 ## Invited seminar presentations
+
+* Swedish Ministry of Education and Research, Stockholm, November 2018.
 
 * School of Business and Economics, Linnaeus University, Växjö, October 2017.
 
@@ -96,6 +102,12 @@ Labor economics, intergenerational mobility, inequality, education, intellectual
 * The Danish National Centre for Social Research (SFI), Copenhagen, October 2012.
 
 ## Conference and workshop presentations
+
+* Paris-Uppsala Workshop on Income and Wealth, Paris, November 2018.
+
+* Workshop on New Developments in Intergenerational Mobility, Rotterdam, September 2018.
+
+* Annual Congress of the European Economic Association (EEA), Cologne, August 2018.
 
 * Meeting of the Society for the Study of Economic Inequality (ECINEQ), New York, July 2017.
 
@@ -135,11 +147,25 @@ Labor economics, intergenerational mobility, inequality, education, intellectual
 
 * Stockholm-Uppsala Doctoral Student Workshop in Economics in Uppsala, May 2009.
 
+## Other presentations and seminars
+
+* Fores, Stockholm, March 2018.
+
+* Wallenberg Foundation, Stockholm, November 2017.
+
+* Almedalen, Visby, July 2016.
+
+* Fores, Stockholm, April 2016.
+
+* SNS, Stockholm, March 2015.
+
 ## Referee assignments
 
-The Review of Income and Wealth, Journal of the European Economic Association, Labour Economics, Journal of Industrial Economics, CESifo Economic Studies, European Journal of Law and Economics, The Journal of Economic Inequality, Economic Inquiry, The Scandinavian Journal of Economics, European Sociological Review, Information Economics and Policy, Journal of Cultural Economics.
+Journal of Public Economics, Journal of Human Resources, The Review of Income and Wealth, Journal of the European Economic Association, Labour Economics, Journal of Industrial Economics, CESifo Economic Studies, European Journal of Law and Economics, The Journal of Economic Inequality, Economic Inquiry, The Scandinavian Journal of Economics, European Sociological Review, Information Economics and Policy, Journal of Cultural Economics.
 
 ## Scholarships and grants
+
+NORFACE Dial, "The impact of childhood circumstances on individual outcomes over the life-course", multi-national research project 2018--2020, lead applicants A. Peichl, A. Trannoy, D. Waldenström, and A. Lefranc.
 
 Travel grant for visiting University of California, Berkeley, Jan Wallander and Tom Hedelius Foundation, 2015.
 
@@ -155,20 +181,28 @@ Member of the organizing committee for Stockholm-Uppsala Doctoral Student Worksh
 
 ## Teaching and supervision experience
 
-Assistant supervisor of PhD-candidate Kristin Gunnarsson, 2016--.
+Assistant supervisor of PhD-candidate Yaroslav Yakymovych, 2018--.
+
+Assistant supervisor of PhD-candidate Kristin Gunnarsson, 2016--2017.
 
 Lecturer, Labor II: Advanced Topics in Labor Economics (Uppsala University, Ph.D. level), 2017.
 
-Lecturer, Topics in Econometrics (Uppsala University, master level), 2014--2017.
+Lecturer, Topics in Econometrics (Uppsala University, master level), 2014--2018.
 
 Lecturer, Applied Microeconometrics (Uppsala University, Ph.D. level), 2013--2014.
 
 Teaching assistant, Basic Micro- and Macro Theory (Uppsala University, undergraduate level), 2008--2009.
 
-Supervisor of Bachelor Theses (Uppsala University), 2014--2015.
+Supervisor of Master's Theses (Uppsala University), 2018.
+
+Supervisor of Bachelor's Theses (Uppsala University), 2014--2015.
 
 ## Discussant assignments
 
 Discussant at final seminar for André Richter's Ph.D. thesis manuscript, SOFI, Stockholm University, October 2016.
 
 Discussant at final seminar for Mengyi Cao's Ph.D. thesis manuscript, Stockholm University, September 2016.
+
+## Awards and honors
+
+Excellence in Reviewing Award (top 25 reviewer), \emph{Labour Economics}, 2017.
