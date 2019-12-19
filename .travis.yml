@@ -10,4 +10,4 @@ deploy:
   file: CV.pdf
   on:
     repo: adrianadermon/CV
-    tags: true
+    branch: master
