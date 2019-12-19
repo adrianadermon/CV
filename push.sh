@@ -1,7 +1,7 @@
 #!/bin/sh
 
-git config --global user.email "adrian.adermon@gmail.com"
-git config --global user.name "adrianadermon"
+git config --global user.email @GH_USER_NAME
+git config --global user.name @GH_USER_EMAIL
 
 git checkout master
 
