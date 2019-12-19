@@ -45,17 +45,21 @@ Defended June 7, 2013. Supervisor: Professor Mikael Lindahl. Assistant superviso
 
 ## Fields of interest
 
-Labor economics, intergenerational mobility, inequality, education, intellectual property and copyright, technological change.
+Labor economics, intergenerational mobility, inequality, technological change.
 
 ## Current research projects
 
-"Dynastic Human Capital, Inequality and Intergenerational Mobility", with Mikael Lindahl and Mårten Palme. IFAU Working paper 2016:19.
+"Dynastic Human Capital, Inequality and Intergenerational Mobility", with Mikael Lindahl and Mårten Palme. IZA Discussion Paper 12300. Revise and resubmit at \emph{American Economic Review}.
+
+"The Relationship Between Intergenerational Mobility and Equality of Opportunity", with Gunnar Brandén and Martin Nybom.
+
+"Gig-jobs: Stepping Stones or Dead Ends?", with Lena Hensvik.
 
 "The role of the immediate and extended family in the formation of wealth: Evidence from Sweden", with Kristin Gunnarsson.
 
 "Educational Mobility Across Three Generations: Measurement Error or Social Interactions?"
 
-"Sibling Spillovers in Education: Causal Estimates From a Natural Experiment"
+<!-- "Sibling Spillovers in Education: Causal Estimates From a Natural Experiment" -->
 
 ## Journal articles (peer reviewed)
 
@@ -71,6 +75,8 @@ Labor economics, intergenerational mobility, inequality, education, intellectual
 
 ## Other publications
 
+"Bristyrken i offentlig verksamhet --- Var arbetar de utbildade?", with Lisa Laun. *Ekonomisk Debatt* 7/2019.
+
 "Bristyrken i offentlig verksamhet --- Var arbetar de utbildade?", with Lisa Laun. IFAU Rapport 2018:19.
 
 "Förmögenhet och arv över flera generationer", with Mikael Lindahl and Daniel Waldenström. IFAU Rapport 2018:7.
@@ -79,9 +85,13 @@ Labor economics, intergenerational mobility, inequality, education, intellectual
 
 "Teknisk utveckling och jobbpolarisering", with Magnus Gustavsson. *SNS Analys* 28 (2015).
 
-"Fildelning och musikförsäljning --- Effekten av piratjägarlagen IPRED", with Che-Yuan Liang. *Ekonomisk Debatt* 3 (2015).
+"Fildelning och musikförsäljning --- Effekten av piratjägarlagen IPRED", with Che-Yuan Liang. *Ekonomisk Debatt* 3/2015.
 
 ## Invited seminar presentations
+
+* Swedish Ministry of Finance, Stockholm, April 2019.
+
+* Research Institute of Industrial Economics, Stockholm, April 2019.
 
 * Swedish Ministry of Education and Research, Stockholm, November 2018.
 
@@ -102,6 +112,14 @@ Labor economics, intergenerational mobility, inequality, education, intellectual
 * The Danish National Centre for Social Research (SFI), Copenhagen, October 2012.
 
 ## Conference and workshop presentations
+
+* The impact of childhood circumstances on individual outcomes over the life-course (IMCHILD) Workshop, Stockholm, September 2019.
+
+* Meeting of the Society for the Study of Economic Inequality (ECINEQ), Paris, July 2019.
+
+* Nordic Summer Institute in Labor Economics, Uppsala, June 2019.
+
+* Dynamics of Inequality Across the Lifecourse (DIAL), Mid-term Conference, Turku, June 2019.
 
 * Paris-Uppsala Workshop on Income and Wealth, Paris, November 2018.
 
@@ -149,6 +167,12 @@ Labor economics, intergenerational mobility, inequality, education, intellectual
 
 ## Other presentations and seminars
 
+* European Commission, Panel discussion on A.I. and the labor market, Stockholm, October 2019.
+
+* Swedish National Agency for Education, Workshop for teachers, Stockholm, September 2019.
+
+* Forte and Uppsala Center for Labor Studies Conference, Uppsala, May 2019.
+
 * Fores, Stockholm, March 2018.
 
 * Wallenberg Foundation, Stockholm, November 2017.
@@ -161,7 +185,7 @@ Labor economics, intergenerational mobility, inequality, education, intellectual
 
 ## Referee assignments
 
-Journal of Public Economics, Journal of Human Resources, The Review of Income and Wealth, Journal of the European Economic Association, Labour Economics, Journal of Industrial Economics, CESifo Economic Studies, European Journal of Law and Economics, The Journal of Economic Inequality, Economic Inquiry, The Scandinavian Journal of Economics, European Sociological Review, Information Economics and Policy, Journal of Cultural Economics.
+Gender & Society, Social Science Research, Journal of Evolutionary Economics, European Economic Review, Journal of Public Economics, Journal of Human Resources, The Review of Income and Wealth, Journal of the European Economic Association, Labour Economics, Journal of Industrial Economics, CESifo Economic Studies, European Journal of Law and Economics, The Journal of Economic Inequality, Economic Inquiry, The Scandinavian Journal of Economics, European Sociological Review, Information Economics and Policy, Journal of Cultural Economics.
 
 ## Scholarships and grants
 
@@ -187,9 +211,11 @@ Assistant supervisor of PhD-candidate Kristin Gunnarsson, 2016--2017.
 
 Lecturer, Labor II: Advanced Topics in Labor Economics (Uppsala University, Ph.D. level), 2017.
 
-Lecturer, Topics in Econometrics (Uppsala University, master level), 2014--2018.
+Lecturer, Topics in Econometrics (Uppsala University, master level), 2014--2019.
 
 Lecturer, Applied Microeconometrics (Uppsala University, Ph.D. level), 2013--2014.
+
+Teaching assistant and guest lecturer, Microeconomics (Uppsala University, undergraduate level), 2019.
 
 Teaching assistant, Basic Micro- and Macro Theory (Uppsala University, undergraduate level), 2008--2009.
 
