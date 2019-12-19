@@ -1,6 +1,8 @@
-% Curriculum Vitae
-% Adrian Adermon
-%
+---
+title: "Curriculum Vitae"
+author: "Adrian Adermon"
+type: "page"
+---
 
 Personal details                      Contact information
 ---               ---                 ---                 ---
