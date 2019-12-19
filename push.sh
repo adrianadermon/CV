@@ -6,7 +6,7 @@ setup_git() {
 }
 
 commit_website_files() {
-  git add . *.pdf
+  git add . CV.pdf
   git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
 }
 
