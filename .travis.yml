@@ -1,14 +1,10 @@
 dist: bionic
-
 before_install:
 - sudo apt-get update
 - sudo apt-get -y install pandoc texlive texlive-xetex lmodern
-
 script: make
-
 after_success:
 - "./travis/push.sh"
-
 deploy:
   provider: script
   script: bash push.sh
@@ -16,4 +12,4 @@ deploy:
 
 env:
   global:
-    - secure: OJb/YTgAsD+OzF6oG0xhNlWrcwjTvurTWdBpydcEZFGHY4kH9Aipw/Lvx2goap+aWD6ZqITXzJNC7QUjkktINgh/8Yg39ru6fQviQGFqd5LS0BW/AHDzssv/6TA7u48r6xUklbL35Lr/KvmVF2mLXAvO9hYubO9f6m1nL+38hmQyej8iCxJADdRBWbegzNBOZU2W7nnfCdyF8fjcLOLLbcdSq4ZURq/5tdej+YoBYGf9efTLsjgfh/SNXEppT1dOXPc5XASKeLjSBuVYOxdjnyFopeG8BtojnAJs6/lL8TyC8aDe9F+cQmLeazghibEVQL5a6UjLsH6zXZoiW2N7dag2W7bmrm5rCfjGI+YbjqBZwcgHPCHV3KBqisOLwW77Vs+8LIJPAKuTtpzVQH2TRn1gLiYMHcV6NVH1NTcElQtAgKxj1FdQVgGodyv4RNsqWdWTj6QR5ejSmd8UhkUWbDbFLZk8W3OH4xK8mmn1cqWK5yQnpumkskQf6/OWMbOfin2WkNey7f3qVJvN6cuXIZ0oGuQxbgRbr2lKThWCaqZqXPTXsHxuzvMgAhTOYW0fXDwy9sv7CGri1K/lT1pq5l/cZmiT/H9UD6NLt9/DQQoHo/wKUA+P9QBEHHK2HBBY98MLidr6gZ7bf4ONEIta5TvF+khMkhKo80mTQrme9BU=
+  - secure: RE69dftvECuT/zW5iH/YnD/Gizy8cydp16mId/OfzRmjRDch8CL/YFhQjXcJwT7LvMiHkOwXwKAQghGa3ZE8R4lwiMUuQD7BuCiQmqo1q9+MKey3GSX+xnSVR2oNSa0ERQBXlNTB10IZ5z1wEp0OZKuuxo1lzZ1eypf5BeVmZ8qgriAEHb/0KaIP/AH8cqhdqtJ6aCDodyKrmn9cyQ8Y+ugZSGWKU2egEbtzmotHF8op4Bdm3dUSjtxBpTqrdLF0RXNbaS/d0A590SIXUv6jTf5Rau9mxyAscFF5mlu1HuzhkC2qxkzc1h1GuizghGjYUlGHWhI4djJosVG3MTwMS5Pwi+n1Om37aY9PZhVH/fBp1Hrk02nhDptD1qlQ2x9O4Nu3GicgcaFBb0ZsJ5X/dq2AJvJ/AeOHoYG2BaFJZmAT2Vub6jhe6eQ4YL0d1ZCwPsiEryYCRCSGJi6Kxu/36VBBkzXpxxQ+/uCLyAIzazpP0ViYkl+0QbNruvlDErN1VH6WULrAx20idQKUVP1XWxdORREqUsG1dcBpals3XwiKZTO3p9DNd4J5c/4vgq8wiDiloQV+7Cabf5EmnLsx4N+UEcQJbsttxadA+Ein2vMwqMCdTUXse7Sh6Mf788+y5coEP9YVpTbdnKRkKmkrZBOqKMp2w257mpjNxQtaed0=
