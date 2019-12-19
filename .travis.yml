@@ -4,7 +4,7 @@ before_install:
 - sudo apt-get update
 - sudo apt-get -y install pandoc texlive texlive-xetex lmodern
 
-script: make
+script: make CV.pdf
 
 deploy:
   provider: script
