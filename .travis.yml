@@ -1,8 +1,7 @@
 dist: bionic
-language: r
 
-# before_install:
-#   - sudo apt-get update
-#   - sudo apt-get -y install texlive-xetex
+before_install:
+  - sudo apt-get update
+  - sudo apt-get -y install texlive-xetex
 
 script: make
