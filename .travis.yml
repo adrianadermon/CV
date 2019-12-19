@@ -3,12 +3,12 @@ dist: bionic
 before_install:
 - sudo apt-get update
 - sudo apt-get -y install pandoc texlive texlive-xetex lmodern
-- chmod u+x ./publish.sh
+- chmod u+x ./travis/publish.sh
 
 script: make
 
 after_success:
-- "./push.sh"
+- "./travis/push.sh"
 
 env:
   global:
