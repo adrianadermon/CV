@@ -6,13 +6,13 @@ before_install:
 - sudo apt-get -y install pandoc texlive texlive-xetex lmodern
 
 deploy:
-  provider: script
-  script: bash build.sh
-  skip_cleanup: true
+  - provider: script
+    script: bash build.sh
+    skip_cleanup: true
 
-  provider: script
-  script: bash push.sh
-  skip_cleanup: true
+  - provider: script
+    script: bash push.sh
+    skip_cleanup: true
 
 env:
   global:
