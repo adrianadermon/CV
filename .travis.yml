@@ -1,3 +1,4 @@
+if: sender = "someone"
 language: minimal
 dist: bionic
 
