@@ -1,6 +1,6 @@
 #!/bin/sh
 
-git config --global user.email $GH_USER_NAME
+git config --global user.email $GIT_USER_NAME
 
 git checkout master
 
