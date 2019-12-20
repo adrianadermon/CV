@@ -2,21 +2,16 @@ language: minimal
 dist: bionic
 
 before_install:
-- sudo apt-get update
 - sudo apt-get -y install pandoc texlive texlive-xetex lmodern
 
 deploy:
   - provider: script
     script: bash build.sh
     skip_cleanup: true
-    on:
-        bransch: master
 
   - provider: script
     script: bash push.sh
     skip_cleanup: true
-    on:
-        bransch: master
 
 env:
   global:
