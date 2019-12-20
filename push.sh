@@ -1,9 +1,7 @@
 #!/bin/sh
 
-git config --global user.email @GH_USER_NAME
-git config --global user.name @GH_USER_EMAIL
-
-git checkout master
+git config --global user.email $GH_USER_NAME
+git config --global user.name $GH_USER_EMAIL
 
 git add . CV.pdf
 git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"

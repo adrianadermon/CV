@@ -9,14 +9,18 @@ deploy:
   - provider: script
     script: bash build.sh
     skip_cleanup: true
+    on:
+        bransch: master
 
   - provider: script
     script: bash push.sh
     skip_cleanup: true
+    on:
+        bransch: master
 
 env:
   global:
   - secure: RE69dftvECuT/zW5iH/YnD/Gizy8cydp16mId/OfzRmjRDch8CL/YFhQjXcJwT7LvMiHkOwXwKAQghGa3ZE8R4lwiMUuQD7BuCiQmqo1q9+MKey3GSX+xnSVR2oNSa0ERQBXlNTB10IZ5z1wEp0OZKuuxo1lzZ1eypf5BeVmZ8qgriAEHb/0KaIP/AH8cqhdqtJ6aCDodyKrmn9cyQ8Y+ugZSGWKU2egEbtzmotHF8op4Bdm3dUSjtxBpTqrdLF0RXNbaS/d0A590SIXUv6jTf5Rau9mxyAscFF5mlu1HuzhkC2qxkzc1h1GuizghGjYUlGHWhI4djJosVG3MTwMS5Pwi+n1Om37aY9PZhVH/fBp1Hrk02nhDptD1qlQ2x9O4Nu3GicgcaFBb0ZsJ5X/dq2AJvJ/AeOHoYG2BaFJZmAT2Vub6jhe6eQ4YL0d1ZCwPsiEryYCRCSGJi6Kxu/36VBBkzXpxxQ+/uCLyAIzazpP0ViYkl+0QbNruvlDErN1VH6WULrAx20idQKUVP1XWxdORREqUsG1dcBpals3XwiKZTO3p9DNd4J5c/4vgq8wiDiloQV+7Cabf5EmnLsx4N+UEcQJbsttxadA+Ein2vMwqMCdTUXse7Sh6Mf788+y5coEP9YVpTbdnKRkKmkrZBOqKMp2w257mpjNxQtaed0=
-  - GH_USER_EMAIL: adrian.adermon@gmail.com
-  - GH_USER_NAME: adrianadermon
+  - GH_USER_EMAIL: "noreply@travis-ci.org"
+  - GH_USER_NAME: "Travis-CI"
   - GH_PROJECT_NAME: CV
