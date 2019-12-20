@@ -1,18 +1,23 @@
-if: sender = "adrianadermon"
-language: minimal
+
+os: linux
+language: shell
 dist: bionic
 
 before_install:
 - sudo apt-get -y install pandoc texlive texlive-xetex lmodern
 
-deploy:
-  - provider: script
-    script: bash build.sh
-    skip_cleanup: true
+jobs:
+  include:
+    - stage:
+      if: sender = "adrianadermon"
+      deploy:
+        - provider: script
+          script: bash build.sh
+          skip_cleanup: true
 
-  - provider: script
-    script: bash push.sh
-    skip_cleanup: true
+        - provider: script
+          script: bash push.sh
+          skip_cleanup: true
 
 env:
   global:
